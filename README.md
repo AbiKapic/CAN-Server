@@ -8,12 +8,14 @@ Sending CAN messages to MQTT and backwards ( virtually generating messages)
 - WSL/2 Ubuntu simulation
 - Customized Linux kernel for Windows users supports CAN utils
 - Cangen and candump vcan0 used commands from UBUNTU/WSl2
-- Topics for MQTTX are 2 one of them for sending messages and the other one is for accepting messages from CAN
+- Topics for MQ
+TTX are 2 one of them for sending messages and the other one is for accepting messages from CAN
 
 ## Instalation
 - Clone git repository for Python code
 - Other things are described throughout the PDF file
 
+![CANslikakodaJSON1](https://github.com/user-attachments/assets/5d4efa0e-afee-4449-aa1c-6200a48f5036)
   
 ## Can-Server ( BOSANSKI )
 
